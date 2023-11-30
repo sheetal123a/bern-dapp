@@ -22,7 +22,7 @@ Welcome to the BERN Project repository! This project aims to showcase the potent
 
 Follow the steps below to set up the BERN Project on your local machine:
 
-1. Clone the repository: `git clone https://github.com/kshitijofficial/BERN-Project.git`
+1. Clone the repository: `https://github.com/sheetal123a/bern-dapp.git`
 2. Navigate to the project folder: `cd BERN-Project`
 3. Navigate to the api folder: `cd api`
 4. Install server dependencies: `npm install`

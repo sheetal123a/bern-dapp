@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+
+// This is a simple contract 
+
 contract ToDo{
 
     struct Task{
